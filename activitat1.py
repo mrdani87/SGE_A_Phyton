@@ -7,5 +7,4 @@ elif num1 < num2:
     resultat = f"El número {num1} és més petit que el número {num2}"
 else:
     resultat = "Els dos números són iguals."
-
 print(resultat)
