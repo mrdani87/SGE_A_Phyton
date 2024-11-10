@@ -1,5 +1,5 @@
 num1 = 10
-num2 = 15
+num2 = 16
 
 if num1 > num2:
     resultat = f"El número {num2} és més gran que el número {num1}"
